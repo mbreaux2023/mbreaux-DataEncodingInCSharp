@@ -76,7 +76,7 @@ different letters.
 
 What is the minimum number of bits to be able to represent the English alphabet?
 
-** ADD YOUR ANSWER HERE **
+26 bits
 
 ## Creating a Simple Encoding for Letters
 
@@ -270,11 +270,11 @@ answer.
 
 1. What is the result of shifting the character `Z` by 3? (`'Z' + 3`)
 
-** ANSWER HERE **
+]
 
 2. What is the result of shifting the character `F` by -5?
 
-** ANSWER HERE **
+A
 
 3. What is the result of shifting each character in the string `"Khoor#Zruog$`"
    by -3?
