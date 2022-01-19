@@ -23,8 +23,8 @@ namespace mbreaux_DataEncodingInCSharp
             Console.WriteLine($"The integer {toConvert} cast to a char is '{asChar}'");
 
             char b;
-            b = (char)('A' + 1);
-            Console.WriteLine($"'A' + 1 = '{b}'");
+            b = (char)('g' + 3);
+            Console.WriteLine($"'K' - 3 = '{b}'");
         }
     }
 }
